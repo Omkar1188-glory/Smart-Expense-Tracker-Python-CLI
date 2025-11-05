@@ -76,16 +76,16 @@ Through this project, I learned how to:
 ## 📸 Screenshots
 
 ### ✅ Main Menu
-![Main Menu](Smart  Expense Tracker/Screenshots/Screenshot 2025-11-05 121639.png)
+![Main Menu](Smart%20Expense%20Tracker/Screenshots/Screenshot%202025-11-05%20121639.png)
 
 ### ✅ View Summary
-![View Summary](Smart  Expense Tracker/Screenshots/Screenshot 2025-11-05 121713.png)
+![View Summary](Smart%20Expense%20Tracker/Screenshots/Screenshot%202025-11-05%20121713.png)
 
 ### ✅ Report & Analysis
-![Report & Analysis](Smart  Expense Tracker/Screenshots/Screenshot 2025-11-05 121826.png)
+![Report & Analysis](Smart%20Expense%20Tracker/Screenshots/Screenshot%202025-11-05%20121826.png)
 
 ### ✅ Search & Filter
-![Search & Filter](Smart  Expense Tracker/Screenshots/Screenshot 2025-11-05 121859.png)
+![Search & Filter](Smart%20Expense%20Tracker/Screenshots/Screenshot%202025-11-05%20121859.png)
 
 ---
 
@@ -96,6 +96,3 @@ Through this project, I learned how to:
 * 📧 [Omkar78789@gmail.com](mailto:Omkar78789@gmail.com)
 * 🔗 LinkedIn: https://www.linkedin.com/in/omkar-kadam-5b493b298/
 
-Total Income: ₹ 5,000.00
-Total Expense: ₹ 1,200.00
-Net Balance: ₹ 3,800.00
