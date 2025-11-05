@@ -1,0 +1,26 @@
+[
+    {
+        "id": "0757168b0b9f43da9ddf1c283379f3d8",
+        "date": "12-10-2024",
+        "amount": 1000.0,
+        "type": "Income",
+        "category": "Bonus",
+        "description": "Random Bonus"
+    },
+    {
+        "id": "79d5607bbcd44c3da26d9d4d585493cf",
+        "date": "5-8-2025",
+        "amount": 300.0,
+        "type": "Expense",
+        "category": "fodd",
+        "description": "Fast Food"
+    },
+    {
+        "id": "cf76ceabc9ff4856b482a888f19e4be8",
+        "date": "20-3-2025",
+        "amount": 600.0,
+        "type": "Expense",
+        "category": "Party",
+        "description": "Birthday party to my friends"
+    }
+]
