@@ -29,10 +29,9 @@ This project demonstrates practical use of:
 
 ## ⚙️ How to Run
 
-1.  **Clone the repo** (Make sure to replace `<YOUR_USERNAME>` with your GitHub username)
+1.  **Clone the repo** 
     ```bash
-    git clone https://github.com/<YOUR_USERNAME>/smart-expense-tracker.git
-    cd smart-expense-tracker
+    git clone https:(https://github.com/Omkar1188-glory/Smart-Expense-Tracker-Python-CLI)
     ```
 
 2.  **Run the main file**
@@ -53,7 +52,7 @@ This project demonstrates practical use of:
 ## 🧪 Example Output
 
 ```text
-Date: 05-08-2025 | Type: Expense | Amount: ₹300.0 | Category: Food | Description: Fast Food
+Date: 05-08-2025 | Type: Expense | Amount: ₹300.0 | Category: Food | Description: Fast Food ```
 
 
 
