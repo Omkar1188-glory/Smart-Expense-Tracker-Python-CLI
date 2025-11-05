@@ -76,7 +76,7 @@ Through this project, I learned how to:
 ## 📸 Screenshots
 
 ### ✅ Main Menu
-![Main Menu](Smart%20Expense%20Tracker/Screenshots/Screenshot%202025-11-05%20121639.png)
+![Main Menu](Smart  Expense Tracker/Screenshots/Screenshot 2025-11-05 121639.png)
 
 ### ✅ View Summary
 ![View Summary](Smart%20Expense%20Tracker/Screenshots/Screenshot%202025-11-05%20121713.png)
