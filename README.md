@@ -52,8 +52,8 @@ This project demonstrates practical use of:
 ## 🧪 Example Output
 
 ```text
-Date: 05-08-2025 | Type: Expense | Amount: ₹300.0 | Category: Food | Description: Fast Food ```
-
+Date: 05-08-2025 | Type: Expense | Amount: ₹300.0 | Category: Food | Description: Fast Food 
+```
 
 
 ## 📈 Future Improvements
